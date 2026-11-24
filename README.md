@@ -228,18 +228,47 @@ Continuous Improvement
 ---
 
 ## 📊 GitHub Profile
+## 📊 GitHub Contributions & Statistics
 
 <p align="center">
-  <a href="https://github.com/mdyusuf166">
-    <img src="https://github-readme-stats.vercel.app/api?username=mdyusuf166&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
-  </a>
+  <img src="https://img.shields.io/badge/2026-893%20Contributions-238636?style=for-the-badge&logo=github" alt="893 GitHub contributions in 2026" />
 </p>
 
 <p align="center">
+  <b>893 contributions in the last year</b><br/>
+  <sub>Contribution snapshot recorded on November 24, 2026.</sub>
+</p>
+
+### Contribution Activity Graph
+
+<p align="center">
   <a href="https://github.com/mdyusuf166">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyusuf166&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdyusuf166&theme=github-compact&hide_border=true&area=true" alt="Yousuf's GitHub Contribution Activity Graph" width="100%" />
   </a>
 </p>
+
+### GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdyusuf166&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
+</p>
+
+### Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdyusuf166&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
+### GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdyusuf166&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <b>Consistency • Contribution • Innovation • Continuous Learning</b>
+</p>
+
 
 ---
 
